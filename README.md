@@ -1,6 +1,9 @@
 # AIUB-AUTOMATED-FOOD-BEVERAGE-SERVICE
 Windows Application
 
+Language : Java
+IDE : Eclispe
+
 Introduction:
 In AIUB more than 65.35% of the students do not get proper time for their meal.[data collected from Spring 21-22 semester CSE department student survey.](Done by our general research).The main motive of this project is to provide food to registered students of AIUB withminimum hassles.The other food service systems in the campusare comparatively time consuming.In this system registeredstudents can collect food with a log-in process.If this demo project is accepted by any organization, this process could be done through quick scan of bar-code implemented in student ID card.
 
