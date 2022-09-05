@@ -11,11 +11,13 @@ Available Food items:
 a. Breakfast items:
   1. shingara (10tk)
   2. cream bread (10tk)
+
 b. Lunch items:
   1. plain rice with chicken curry (60tk)
   2. plain rice with fish curry (60tk)
   3. chicken biriani (70tk)
   4. egg fried rice with single fried chicken (80tk)
+
 c. Beverage items: 
   6. water (15tk)
   7. soft drinks (20tk)
