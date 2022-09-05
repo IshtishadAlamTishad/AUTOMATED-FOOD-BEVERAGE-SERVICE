@@ -8,17 +8,17 @@ Process:
 Firstly, Student must register to AIUB Automated Food and Braverage Service.Secondly, registeredstudent can purchase any food item by granting access to booths of AIUB Automated Food and Braverage Service.Next, registered student should use specific area allocated by the authority.Finally, student must use wastebasket located in that specific area.
 
 Available Food items:
-Lunch items:
+a. Breakfast items:
+  1. shingara (10tk)
+  2. cream bread (10tk)
+b. Lunch items:
   1. plain rice with chicken curry (60tk)
   2. plain rice with fish curry (60tk)
   3. chicken biriani (70tk)
   4. egg fried rice with single fried chicken (80tk)
-Beverage items: 
-  1. water (15tk)
-  2. soft drinks (20tk)
-Breakfast items:
-  1. shingara (10tk)
-  2. cream bread (10tk)
+c. Beverage items: 
+  6. water (15tk)
+  7. soft drinks (20tk)
   
 Terms & Conditions:
   1.This serviceis only for the students who register AIUB Automated Food & Beverage Service.
