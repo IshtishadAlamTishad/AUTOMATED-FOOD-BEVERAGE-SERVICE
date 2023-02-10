@@ -1,5 +1,5 @@
 # AUTOMATED-FOOD-BEVERAGE-SERVICE
-Windows Application
+Academic Project : Windows Application
 
 Language : Java
 IDE : Eclispe
